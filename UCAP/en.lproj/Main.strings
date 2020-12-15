@@ -1,0 +1,103 @@
+
+/* Class = "UITabBarItem"; title = "Welcome"; ObjectID = "26D-YX-aEX"; */
+"26D-YX-aEX.title" = "Welcome";
+
+/* Class = "UILabel"; accessibilityLabel = "respond"; ObjectID = "2lb-dg-sNF"; */
+"2lb-dg-sNF.accessibilityLabel" = "respond";
+
+/* Class = "UILabel"; text = "Respond"; ObjectID = "2lb-dg-sNF"; */
+"2lb-dg-sNF.text" = "Respond";
+
+/* Class = "UIButton"; accessibilityLabel = "poor"; ObjectID = "3HE-rv-0EJ"; */
+"3HE-rv-0EJ.accessibilityLabel" = "poor";
+
+/* Class = "UIButton"; normalTitle = "Poor"; ObjectID = "3HE-rv-0EJ"; */
+"3HE-rv-0EJ.normalTitle" = "Poor";
+
+/* Class = "UILabel"; accessibilityLabel = "s"; ObjectID = "3Or-Ba-7F0"; */
+"3Or-Ba-7F0.accessibilityLabel" = "s";
+
+/* Class = "UILabel"; text = "Oh! I have slipped the surly bonds of Earth
+ And danced the skies on laughter-silvered wings;
+ Sunward I've climbed, and joined the tumbling mirth
+ Of sun-split clouds, — and done a hundred things
+ You have not dreamed of — wheeled and soared and swung
+ High in the sunlit silence. Hov'ring there,
+ I've chased the shouting wind along, and flung
+ My eager craft through footless halls of air. . . .
+
+ Up, up the long, delirious burning blue
+ I've topped the wind-swept heights with easy grace
+ Where never lark, or ever eagle flew —
+ And, while with silent, lifting mind I've trod
+ The high untrespassed sanctity of space,
+ Put out my hand, and touched the face of God."; ObjectID = "3Or-Ba-7F0"; */
+"3Or-Ba-7F0.text" = "Oh! I have slipped the surly bonds of Earth\r
+And danced the skies on laughter-silvered wings;\r
+Sunward I've climbed, and joined the tumbling mirth\r
+Of sun-split clouds, — and done a hundred things\r
+You have not dreamed of — wheeled and soared and swung\r
+High in the sunlit silence. Hov'ring there,\r
+I've chased the shouting wind along, and flung\r
+My eager craft through footless halls of air. . . .\r
+\r
+Up, up the long, delirious burning blue\r
+I've topped the wind-swept heights with easy grace\r
+Where never lark, or ever eagle flew —\r
+And, while with silent, lifting mind I've trod\r
+The high untrespassed sanctity of space,\r
+Put out my hand, and touched the face of God.";
+
+/* Class = "UIViewController"; title = "Behavior"; ObjectID = "5zA-W1-XRx"; */
+"5zA-W1-XRx.title" = "Behavior";
+
+/* Class = "UITabBarItem"; title = "Selfie"; ObjectID = "6eZ-2B-9Mf"; */
+"6eZ-2B-9Mf.title" = "Selfie";
+
+/* Class = "UITabBarItem"; title = "Slide Show"; ObjectID = "6l5-Op-SNv"; */
+"6l5-Op-SNv.title" = "Slide Show";
+
+/* Class = "UIViewController"; title = "AR View Controller"; ObjectID = "8G6-wC-7bx"; */
+"8G6-wC-7bx.title" = "AR View Controller";
+
+/* Class = "UIViewController"; title = "Respond"; ObjectID = "8Vk-s2-tbg"; */
+"8Vk-s2-tbg.title" = "Respond";
+
+/* Class = "UIViewController"; title = "Selfie"; ObjectID = "9Oo-Yz-czS"; */
+"9Oo-Yz-czS.title" = "Selfie";
+
+/* Class = "UIButton"; accessibilityLabel = "good"; ObjectID = "D3e-pn-CQt"; */
+"D3e-pn-CQt.accessibilityLabel" = "good";
+
+/* Class = "UIButton"; normalTitle = "Good"; ObjectID = "D3e-pn-CQt"; */
+"D3e-pn-CQt.normalTitle" = "Good";
+
+/* Class = "UIViewController"; title = "SlideShow"; ObjectID = "Ifx-IS-EIY"; */
+"Ifx-IS-EIY.title" = "SlideShow";
+
+/* Class = "UITabBarItem"; title = "Report"; ObjectID = "Qd2-Ds-7eu"; */
+"Qd2-Ds-7eu.title" = "Report";
+
+/* Class = "UIImageView"; accessibilityLabel = "photo"; ObjectID = "R77-nD-S2H"; */
+"R77-nD-S2H.accessibilityLabel" = "photo";
+
+/* Class = "UIViewController"; title = "Welcome"; ObjectID = "X0R-N9-pus"; */
+"X0R-N9-pus.title" = "Welcome";
+
+/* Class = "UILabel"; text = "High Flight"; ObjectID = "auD-uZ-9Eb"; */
+"auD-uZ-9Eb.text" = "High Flight";
+
+/* Class = "UIViewController"; title = "Record"; ObjectID = "bJo-oO-K66"; */
+"bJo-oO-K66.title" = "Record";
+
+/* Class = "UILabel"; text = "Catherine's Behavior"; ObjectID = "eVu-1E-nzP"; */
+"eVu-1E-nzP.text" = "This Weeks Episode";
+
+/* Class = "UIImageView"; accessibilityLabel = "recenter"; ObjectID = "gJK-oX-FQl"; */
+"gJK-oX-FQl.accessibilityLabel" = "recenter";
+
+/* Class = "UILabel"; text = "Lets take a look..."; ObjectID = "jDD-kL-wnA"; */
+"jDD-kL-wnA.text" = "Tell us what you think...";
+
+/* Class = "UIImageView"; accessibilityLabel = "Slide Show"; ObjectID = "o63-Ia-bWv"; */
+"o63-Ia-bWv.accessibilityLabel" = "Slide Show";

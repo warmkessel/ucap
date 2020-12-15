@@ -1,0 +1,20 @@
+/*
+  Created by James Warmkessel on 11/26/20.
+  
+*/
+"goodReponse" = 4;
+
+"goodReponse0" = "It was a great Episode";
+"goodReponse1" = "I love it when they go off on a tangent";
+"goodReponse2" = "I should go and write a positive review";
+"goodReponse3" = "They are the voices in your head";
+
+"badReponse" = 6;
+
+"badReponse0" = "Well, perhaps the next episode will be better";
+"badReponse1" = "They cant win them all";
+"badReponse2" = "Perhaps if you made a donation. ;)";
+"badReponse3" = "Even there tangents even have tagnets";
+"badReponse4" = "They will get better next week!";
+"badReponse5" = "They are the voices in your head";
+
